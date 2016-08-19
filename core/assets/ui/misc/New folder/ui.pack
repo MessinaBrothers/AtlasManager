@@ -1,0 +1,45 @@
+
+ui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button_disabled
+  rotate: false
+  xy: 1, 1
+  size: 16, 16
+  split: 2, 2, 2, 2
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+button_down
+  rotate: false
+  xy: 19, 1
+  size: 16, 16
+  split: 4, 4, 4, 4
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+button_inventory
+  rotate: false
+  xy: 37, 1
+  size: 16, 16
+  split: 7, 8, 8, 7
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+button_up
+  rotate: false
+  xy: 55, 1
+  size: 16, 16
+  split: 2, 4, 2, 4
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+label_background
+  rotate: false
+  xy: 73, 1
+  size: 16, 16
+  split: 2, 2, 2, 2
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
